@@ -1,7 +1,7 @@
 ## Lists
 
-Extension module for lists
+Extension module for lists for information technology departments in ERPNext.
 
-#### License
+## License
 
 GPL
