@@ -1,2 +1,7 @@
-# it_lists
-IT lists for ERPNext
+## Lists
+
+Extension module for lists
+
+#### License
+
+GPL
